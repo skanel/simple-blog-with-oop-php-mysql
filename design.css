@@ -1,0 +1,34 @@
+#header {
+    background-color:white;
+    color:white;
+    text-align:center;
+    padding:5px;
+     text-align:center
+}
+#section {
+    padding:10px; 
+}
+#footer {
+    background-color:gray ;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+h1,h2,h3{
+    text-align: center;
+    
+}
+h2 {
+	background-color: black;
+	color: white;
+}
+i{
+	background-color:gray ;
+    color:white;
+}
+a {
+	text-decoration: none;
+        color:black;
+        font-weight: bold;
+}
